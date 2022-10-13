@@ -1,7 +1,7 @@
 '''
-Descripcion:Operadores de comparación y ejecución condicional
 Autor: Gonzalez Mazano Sandra Dania 
 Fecha: 27 sep 2022
+Descripcion:Operadores de comparación y ejecución condicional
 '''
 
 planta = input("ingresa el nombre planta ")

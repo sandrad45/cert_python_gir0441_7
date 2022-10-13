@@ -1,7 +1,7 @@
 '''
 Nombre: Sandra Dania Gonzalez Manzano
 Fecha: 20 / sep / 2022
-Descripción:
+Descripción: Ingresar valores para x, y.
 '''
 
 x = float(input("Ingresa el valor para x: "))

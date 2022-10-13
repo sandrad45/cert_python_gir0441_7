@@ -1,11 +1,9 @@
 '''
-Descripcion:Operadores de comparación y ejecución condicional
-Autor: Gonzalez Mazano Sandra Dania 
+Autor: Gonzalez Manzano Sandra Dania 
 Fecha: 27 sep 2022
+Descripcion:Operadores de comparación y ejecución condicional
 '''
-
 secret_number = 777
-
 print(
 """
 +==================================+

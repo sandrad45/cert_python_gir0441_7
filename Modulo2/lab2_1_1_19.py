@@ -1,7 +1,7 @@
 '''
 Nombre: Sandra Dania Gonzalez Manzano
 Fecha: 20 / sep / 2022
-Descripción: Mostre una flecha en la consolo 
+Descripción: Mostre una flecha en la consola
 '''
 print("    *")
 print("   * *")

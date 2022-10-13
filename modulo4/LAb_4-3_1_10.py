@@ -2,6 +2,7 @@
 Nombre: Sandra Dania Gonzalez Manzano 
 Fecha:  04 / Oct /2022
 Descripción: 
+
 '''
 def l100kmtompg(litros):
     galones = litros / 3.785411784

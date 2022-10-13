@@ -1,13 +1,11 @@
 '''
 Nombre: Sandra Dania Gonzalez Manzano 
 Fecha:  04 / Oct /2022
-Descripción: 
+Descripción: Programa 
 '''
-
 from random import randrange
-
 def DisplayBoard(board):
-	print("+-------" * 3,"+",sep="")
+	print("+" * 3,"+",sep="")
 	for row in range(3):
 		print("|       " * 3,"|",sep="")
 		for col in range(3):

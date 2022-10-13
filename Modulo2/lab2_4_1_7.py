@@ -1,8 +1,9 @@
 '''
 Nombre: Sandra Dania Gonzalez Manzano
 Fecha: 20 / sep / 2022
-Descripción: Nos muestran una histroai de las cuales juan tiene 3 manzanas , maria tiene 5 manzanas y adan tiene 6 manzanas
-, realizar varias operaciones artimeticas
+Descripción: Nos muestran una historia  de las cuales juan tiene 3 manzanas,
+maria tiene 5 manzanas y adan tiene 6 manzanas,
+realizar varias operaciones artimetica
 '''
 juan = 3
 maria = 5
